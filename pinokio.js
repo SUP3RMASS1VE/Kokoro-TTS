@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "3.2",
-  title: "1111Kokoro-TTS-Local",
+  title: "Kokoro-TTS-Local v0.19",
   description: "A local implementation of the Kokoro Text-to-Speech model",
   icon: "icon.png",
   menu: async (kernel, info) => {
